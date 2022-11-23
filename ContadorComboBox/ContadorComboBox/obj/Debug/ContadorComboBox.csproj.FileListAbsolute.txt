@@ -1,0 +1,11 @@
+H:\Exercícios de LogP\ContadorComboBox\ContadorComboBox\bin\Debug\ContadorComboBox.exe.config
+H:\Exercícios de LogP\ContadorComboBox\ContadorComboBox\bin\Debug\ContadorComboBox.exe
+H:\Exercícios de LogP\ContadorComboBox\ContadorComboBox\bin\Debug\ContadorComboBox.pdb
+H:\Exercícios de LogP\ContadorComboBox\ContadorComboBox\obj\Debug\ContadorComboBox.csproj.AssemblyReference.cache
+H:\Exercícios de LogP\ContadorComboBox\ContadorComboBox\obj\Debug\ContadorComboBox.csproj.SuggestedBindingRedirects.cache
+H:\Exercícios de LogP\ContadorComboBox\ContadorComboBox\obj\Debug\ContadorComboBox.Form1.resources
+H:\Exercícios de LogP\ContadorComboBox\ContadorComboBox\obj\Debug\ContadorComboBox.Properties.Resources.resources
+H:\Exercícios de LogP\ContadorComboBox\ContadorComboBox\obj\Debug\ContadorComboBox.csproj.GenerateResource.cache
+H:\Exercícios de LogP\ContadorComboBox\ContadorComboBox\obj\Debug\ContadorComboBox.csproj.CoreCompileInputs.cache
+H:\Exercícios de LogP\ContadorComboBox\ContadorComboBox\obj\Debug\ContadorComboBox.exe
+H:\Exercícios de LogP\ContadorComboBox\ContadorComboBox\obj\Debug\ContadorComboBox.pdb
